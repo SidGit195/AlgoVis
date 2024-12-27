@@ -31,7 +31,7 @@ A modern, interactive web application to visualize sorting algorithms in real-ti
 
 ## 🚀 Live Demo
 
-[Visit AlgoVis](https://algorithmsvis.netlify.app/)
+<a href="https://algorithmsvis.netlify.app/" target="_blank">Visit AlgoVis</a>
 
 ## 🛠️ Technologies Used
 
