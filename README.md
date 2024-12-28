@@ -46,3 +46,9 @@ A modern, interactive web application to visualize sorting algorithms in real-ti
 ```bash
 git clone https://github.com/SidGit195/AlgoVis.git
 cd algovis
+```
+
+## ScrenShots
+![Screenshot (500)](https://github.com/user-attachments/assets/10d85965-fe25-471c-b278-b91d486678d5)
+![Screenshot (498)](https://github.com/user-attachments/assets/52d8985a-b953-40c7-8a13-c572c351b9d7)
+![Screenshot (499)](https://github.com/user-attachments/assets/4404096b-0016-436c-a1de-89392b746f1b)
